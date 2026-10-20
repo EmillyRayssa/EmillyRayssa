@@ -1,3 +1,7 @@
+<img width="1280" height="720" alt="ed59e0cd-94d4-47c0-998f-429a2e0f5c29" src="https://github.com/user-attachments/assets/7f2fad84-cf0b-4c74-9294-94121c1460fe" />
+   <p align="center">
+     <img src="banner.gif" alt="Banner pixel art de uma pessoa olhando o mar" width="100%">
+   </p>
 
 <h1 align="center">Hello World! Meu nome é Emilly</h1>
 
