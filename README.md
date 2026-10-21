@@ -24,8 +24,8 @@
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Estudando desenvolvimento de software e sistemas de informação
-- 🔭 Trabalhando em projetos web com foco em boas práticas e organização de código
+- Estudando desenvolvimento de software e sistemas de informação
+- Trabalhando em projetos web com foco em boas práticas e organização de código
 
 ---
 
@@ -34,18 +34,6 @@
 | **Linguagens** | Python, Ruby, JavaScript |
 | **Frameworks** | Django, Ruby on Rails |
 | **Front-end** | HTML, CSS |
-
----
-
-## 🚀 Projetos em destaque
-
-### 🍔 PedeAió
-Sistema em Django para pedidos de lanches.
-`Python` `Django`
-
-### 🎬 Diário de Filmes e Séries
-Site em Ruby on Rails para registrar e acompanhar filmes e séries assistidos.
-`Ruby` `Rails` `HTML` `CSS`
 
 ---
 
