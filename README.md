@@ -26,6 +26,7 @@
 
 - Estudando desenvolvimento de software e sistemas de informação
 - Trabalhando em projetos web com foco em boas práticas e organização de código
+- Sou estudante de TSI (Sistemas para Internet) no Instituto Federal do Rio Grande do Norte (IFRN) - Campus Canguaretama.
 
 ---
 
